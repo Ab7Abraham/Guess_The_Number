@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to left top, #fe0505, #f4fe5f, #66ff2a, #54d5b3, #00c89f);
+    color: #060606;
+    margin: 10rem auto;
+    height:60vh;
+  }
+  h1 {
+    font-size: 2rem;
+  }
+  
+  .lastResult {
+     color: white;
+     padding: 3px;
+  }
+  button {
+    margin-left:3rem ;
+  }
